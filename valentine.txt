@@ -1,0 +1,43 @@
+┌──(smith㉿kali)-[~]
+└─$ python valentine.py 
+Status Code: 200
+Banco de dados salvo como valenfind_leak.db
+
+┌──(smith㉿kali)-[~]
+└─$ cat valenfind_leak.db 
+SQLite format 3@  
+
+�P++Ytablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)�T�tableusersusersCREATE TABLE users (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    username TEXT NOT NULL UNIQUE,
+                    password TEXT NOT NULL,
+                    real_name TEXT,
+                    email TEXT,
+                    phone_number TEXT,
+                    address TEXT,
+                    bio TEXT,
+                    likes INTEGER DEFAULT 0,
+                    avatar_image TEXT
+                ))=indexsqlite_autoindex_users_1users
+7       �\�
+ z
+  �
+�
+J       �       �       �1
+
+#testetesteNew to ValenFind!default.jpg:
+
+#       #smithsmithsmithsmith@localNoneNoneiddefault.jpgP
+                                                                -/      #adminpasswordnamename@admin.localNoneNoneNew to ValenFind!default.jpg�0
+                 )55'c[cupidadmin_root_x99System Administratorcupid@internal.cupid555-0000-ROOTFLAG: THM{v1be_c0ding_1s_n0t_my_cup_0f_t3a}I keep the database secure. No peeking.�cupid.jpg�E
+                                                               ')%/'Q�#count_draculasunlight_sucksVlad Draculavlad@night.walker555-0666-BITEBran Castle, Transylvania, RomaniaI love long walks at night and biting... necks? No, biting into life!�dracula.jpg�2
+     +5'I�jane_eyrerochester_blindJane Eyrejane@thornfield.book555-1847-READThornfield Hall, Yorkshire, UKQuiet, independent, and looking for a connection of the soul.!jane.jpg�:
+                                                    %#!/'O�!gatsby_greatgreen_lightJay Gatsbyjay@westegg.party555-1922-RICHGatsby Mansion, West Egg, NY, USAThrowing parties every weekend hoping you'll walk through the door.igatsby.jpg�C
+                                                                                                              !)+9'G�%sherlock_hwatson_is_coolSherlock Holmesdetective@baker.street555-221B-KEYS221B Baker Street, London, UKObservant, logical, and looking for a mystery to solve (or a date).sherlock.jpg�4
+                                                  +%=-'Kocleopatra_queencaesar_saladCleopatra VII Philopatorqueen@nile.river555-0001-NILERoyal Palace, Alexandria, EgyptI rule an empire, but I can't rule my heart. Xcleo.jpg�%
+                                                                                                    /-5'OO%casanova_officialsecret123Giacomo Casanovaloverboy@venice.kiss555-0155-LOVE101 Grand Canal St, Venice, ItalyJust here for the free chocolate.casanova.jpg�!
+          ))1)OYromeo_montaguejuliet123Romeo Montagueromeo@verona.cupid555-0100-ROMEO123 Balcony Way, Verona, VR 99999Looking for my Juliet. Where art thou?romeo.jpg
+
+\p���z����f\    teste
+                        smith
+��ne_eyruserssby_great!sherlock_h+cleopatra_queen/casanova_official)    romeo_montague
